@@ -73,4 +73,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 # restaurant-react
 
-![screen-gif](ekran.gif)
+![screen-gif](https://github.com/Fatma1981/restaurant-react/blob/main/src/ekran.gif)
