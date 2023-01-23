@@ -1,6 +1,6 @@
 # restaurant-react
 
-<h2> YZILIM DENEMELERI</h2>
+<h2> restaurant app with react-router </h2>
 
 <h3>GIF </h3>
 
