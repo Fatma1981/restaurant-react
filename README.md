@@ -1,2 +1,1 @@
-# react-router-restaurant
-# react-router-restaurant
+# restaurant-react
