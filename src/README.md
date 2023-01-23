@@ -2,4 +2,4 @@
 
 <h2>Ekran goruntusu</h2>
 
-![screen-gif](gif.gif)
+![screen-gif](https://github.com/Fatma1981/restaurant-react/blob/master/screen.gif)
